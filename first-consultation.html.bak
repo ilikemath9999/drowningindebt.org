@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Your First Bankruptcy Consultation - What to Bring, What to Expect</title>
-<meta name="description" content="The free consultation is an assessment, not a sales pitch. Document checklist, questions to ask, red flags to watch for, and when to leave without hiring. From a 501(c)(3) public charity (EIN 41-5159631).">
+<meta name="description" content="The free consultation is an assessment, not a sales pitch. Document checklist, questions to ask, red flags to watch for, and when to leave without hiring. From a 501(c)(3) nonprofit.">
 <link rel="canonical" href="https://drowningindebt.org/first-consultation.html">
 <meta property="og:title" content="Your First Bankruptcy Consultation - What to Bring, What to Expect">
 <meta property="og:description" content="The free consultation is an assessment, not a sales pitch. Document checklist, questions to ask, red flags to watch for.">
@@ -54,27 +54,6 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 {"@type":"Question","name":"Should I hire the first attorney I consult with?","acceptedAnswer":{"@type":"Answer","text":"Not automatically. Consult with two or three before deciding. Fees, responsiveness, case-handling style, and comfort vary significantly. A free consultation imposes no obligation."}},
 {"@type":"Question","name":"How long does a bankruptcy consultation take?","acceptedAnswer":{"@type":"Answer","text":"Standard consultations run 30 to 60 minutes. Complicated cases - business income, recent asset transfers, prior bankruptcy cases, pending lawsuits - can run 90 minutes or longer. Come prepared to give a concise financial summary in the first 10 minutes."}}
 ]}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
 </script>
 </head>
 <body>
@@ -229,7 +208,7 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 </ul>
 
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

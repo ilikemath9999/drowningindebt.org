@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>FAQ - Drowning in Debt</title>
-<meta name="description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<link rel="canonical" href="https://drowningindebt.org/faq.html">
-<meta property="og:title" content="FAQ - Drowning in Debt">
-<meta property="og:description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<meta property="og:url" content="https://drowningindebt.org/faq.html">
+<title>Page Not Found</title>
+<meta name="description" content="Page Not Found. Free resource from the Open Bankruptcy Project.">
+<link rel="canonical" href="https://drowningindebt.org/404.html">
+<meta property="og:title" content="Page Not Found">
+<meta property="og:description" content="Page Not Found. Free resource from the Open Bankruptcy Project.">
+<meta property="og:url" content="https://drowningindebt.org/404.html">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <style>*{margin:0;padding:0;box-sizing:border-box}
@@ -43,27 +43,6 @@ li{margin-bottom:0.5rem}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
 gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container">
@@ -72,17 +51,18 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 <a href="/">Home</a><a href="/faq.html">FAQ</a><a href="/resources.html">Resources</a><a href="/about.html">About</a>
 </div></div></nav>
 <div class="container">
-<h1>Frequently Asked Questions</h1>
-<p class="tagline">Free guide to debt relief, bankruptcy, and when each applies.</p>
-<div class="faq"><h3>How do I know if I should file bankruptcy?</h3><p>Three tests: (1) is your unsecured debt more than 40% of annual income? (2) would it take more than 5 years to pay off at your current rate? (3) are creditors suing or garnishing? If any two are yes, bankruptcy deserves a serious look.</p></div>
-<div class="faq"><h3>Will bankruptcy ruin my credit forever?</h3><p>No. Chapter 7 stays on credit reports 10 years, Chapter 13 stays 7 years. But most filers see credit scores recover to 650+ within 2-3 years because the underlying debt is gone. Your current situation - late payments, collections, judgments - may already be doing more damage.</p></div>
-<div class="faq"><h3>Can I keep my house and car?</h3><p>In most cases yes. Exemptions protect home equity (varies by state, $25,000 to unlimited), vehicles up to $3,500-$15,000 in equity, and retirement accounts entirely. Secured debts continue if you keep paying. We have state-specific exemption guides linked below.</p></div>
-<div class="faq"><h3>Is bankruptcy public record?</h3><p>Yes, filings are public via PACER. But employers generally do not check, and credit reporting rules limit how long it shows. The practical privacy impact is small compared to the relief.</p></div>
-<h2>Have a different question?</h2>
-<p>Email info@openbankruptcyproject.org or visit our <a href="https://openbankruptcyproject.org">main site</a> for the full library.</p>
-<p><a href="https://1328f.com/" class="cta">Free screener: can you re-file bankruptcy (1328(f) check) &rarr;</a></p>
+<h1>Page Not Found</h1>
+<p class="tagline">Sorry - that page does not exist on drowningindebt.org.</p>
+<p><a href="/" class="cta">Return to Home &rarr;</a></p>
+<h2>Popular Pages</h2>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/faq.html">Frequently Asked Questions</a></li>
+<li><a href="/resources.html">Related Resources</a></li>
+<li><a href="/about.html">About Drowning in Debt</a></li>
+</ul>
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

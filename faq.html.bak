@@ -43,27 +43,6 @@ li{margin-bottom:0.5rem}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
 gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container">
@@ -82,7 +61,7 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 <p>Email info@openbankruptcyproject.org or visit our <a href="https://openbankruptcyproject.org">main site</a> for the full library.</p>
 <p><a href="https://1328f.com/" class="cta">Free screener: can you re-file bankruptcy (1328(f) check) &rarr;</a></p>
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

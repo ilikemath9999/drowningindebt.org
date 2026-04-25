@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>FAQ - Drowning in Debt</title>
-<meta name="description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<link rel="canonical" href="https://drowningindebt.org/faq.html">
-<meta property="og:title" content="FAQ - Drowning in Debt">
-<meta property="og:description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<meta property="og:url" content="https://drowningindebt.org/faq.html">
+<title>Drowning in Debt - Free Guide</title>
+<meta name="description" content="If you are drowning in debt, the worst move is waiting. Free guide to your options: debt management plans, consolidation, settlement, bankruptcy. Open Bankruptcy Project nonprofit.">
+<link rel="canonical" href="https://drowningindebt.org/">
+<meta property="og:title" content="Drowning in Debt - Free Guide">
+<meta property="og:description" content="If you are drowning in debt, the worst move is waiting. Free guide to your options: debt management plans, consolidation, settlement, bankruptcy. Open Bankruptcy Project nonprofit.">
+<meta property="og:url" content="https://drowningindebt.org/">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <style>*{margin:0;padding:0;box-sizing:border-box}
@@ -43,46 +43,32 @@ li{margin-bottom:0.5rem}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
 gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<script src="/analytics.js" defer></script>
 </head>
 <body>
 <nav><div class="container">
 <span class="brand"><a href="/" style="color:#f0f6fc">Drowning in Debt</a></span>
 <div class="nav-links">
-<a href="/">Home</a><a href="/faq.html">FAQ</a><a href="/resources.html">Resources</a><a href="/about.html">About</a>
+<a href="/">Home</a><a href="/should-i-file.html">Should I File?</a><a href="/first-consultation.html">Consultation</a><a href="/spouse-filing.html">Spouse Filing</a><a href="/family-debt.html">Family Debt</a><a href="/faq.html">FAQ</a>
 </div></div></nav>
 <div class="container">
-<h1>Frequently Asked Questions</h1>
+<h1>When Debt Feels Impossible, You Have Options</h1>
 <p class="tagline">Free guide to debt relief, bankruptcy, and when each applies.</p>
-<div class="faq"><h3>How do I know if I should file bankruptcy?</h3><p>Three tests: (1) is your unsecured debt more than 40% of annual income? (2) would it take more than 5 years to pay off at your current rate? (3) are creditors suing or garnishing? If any two are yes, bankruptcy deserves a serious look.</p></div>
-<div class="faq"><h3>Will bankruptcy ruin my credit forever?</h3><p>No. Chapter 7 stays on credit reports 10 years, Chapter 13 stays 7 years. But most filers see credit scores recover to 650+ within 2-3 years because the underlying debt is gone. Your current situation - late payments, collections, judgments - may already be doing more damage.</p></div>
-<div class="faq"><h3>Can I keep my house and car?</h3><p>In most cases yes. Exemptions protect home equity (varies by state, $25,000 to unlimited), vehicles up to $3,500-$15,000 in equity, and retirement accounts entirely. Secured debts continue if you keep paying. We have state-specific exemption guides linked below.</p></div>
-<div class="faq"><h3>Is bankruptcy public record?</h3><p>Yes, filings are public via PACER. But employers generally do not check, and credit reporting rules limit how long it shows. The practical privacy impact is small compared to the relief.</p></div>
-<h2>Have a different question?</h2>
-<p>Email info@openbankruptcyproject.org or visit our <a href="https://openbankruptcyproject.org">main site</a> for the full library.</p>
-<p><a href="https://1328f.com/" class="cta">Free screener: can you re-file bankruptcy (1328(f) check) &rarr;</a></p>
+<a href="https://1328f.com/" class="cta">Free screener: can you re-file bankruptcy (1328(f) check) &rarr;</a>
+<p>If your debt keeps growing faster than you can pay it down, you are not alone - roughly 1 in 7 Americans has been sued by a debt collector, and bankruptcy filings have risen every year since 2022. There are four major relief paths, and the right one depends on your income, assets, and debt type.</p>
+<p><strong>Debt management plan (DMP):</strong> A nonprofit credit counselor negotiates lower interest rates. You make one monthly payment for 3-5 years. Works for credit card debt when you can afford the principal. Does not touch medical, student loan, or secured debt.</p>
+<p><strong>Debt settlement:</strong> For-profit companies negotiate lump-sum payoffs at 40-60 cents on the dollar. Tax consequences (forgiven debt = income), and settled accounts hit your credit for 7 years.</p>
+<p><strong>Chapter 7 bankruptcy:</strong> Most unsecured debts (credit cards, medical, collection accounts) wiped in 3-4 months. 93% success rate. You keep exempt property (home equity, retirement, tools of trade, vehicle up to a limit). Means test required.</p>
+<p><strong>Chapter 13 bankruptcy:</strong> 3-5 year repayment plan. Keeps your home, saves your car from repossession, strips junior liens off underwater property. Only ~35% complete the plan and get the discharge - choose carefully.</p>
+<h2>Common Question</h2>
+<div class="faq">
+<h3>How do I know if I should file bankruptcy?</h3>
+<p>Three tests: (1) is your unsecured debt more than 40% of annual income? (2) would it take more than 5 years to pay off at your current rate? (3) are creditors suing or garnishing? If any two are yes, bankruptcy deserves a serious look.</p>
+<p style="margin-top:0.75rem"><a href="/should-i-file.html">Full three-test framework with scenario walkthroughs &rarr;</a></p>
+</div>
+<p><a href="/faq.html">More frequently asked questions &rarr;</a></p>
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

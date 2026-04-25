@@ -56,27 +56,6 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 {"@type":"Question","name":"Will bankruptcy stop a lawsuit or garnishment?","acceptedAnswer":{"@type":"Answer","text":"Yes. The automatic stay under 11 U.S.C. section 362 halts most collection activity the moment you file - lawsuits, garnishments, repossessions, foreclosures. Some exceptions apply to domestic support and criminal matters."}}
 ]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container">
@@ -208,7 +187,7 @@ If you are under active enforcement, bankruptcy is no longer a financial questio
 </ul>
 
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. Statutory citations and exemption amounts change over time and vary by state. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

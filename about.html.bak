@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>FAQ - Drowning in Debt</title>
-<meta name="description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<link rel="canonical" href="https://drowningindebt.org/faq.html">
-<meta property="og:title" content="FAQ - Drowning in Debt">
-<meta property="og:description" content="FAQ - Drowning in Debt. Free resource from the Open Bankruptcy Project.">
-<meta property="og:url" content="https://drowningindebt.org/faq.html">
+<title>About Drowning in Debt</title>
+<meta name="description" content="About Drowning in Debt. Free resource from the Open Bankruptcy Project.">
+<link rel="canonical" href="https://drowningindebt.org/about.html">
+<meta property="og:title" content="About Drowning in Debt">
+<meta property="og:description" content="About Drowning in Debt. Free resource from the Open Bankruptcy Project.">
+<meta property="og:url" content="https://drowningindebt.org/about.html">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <style>*{margin:0;padding:0;box-sizing:border-box}
@@ -43,27 +43,6 @@ li{margin-bottom:0.5rem}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
 gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container">
@@ -72,17 +51,19 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 <a href="/">Home</a><a href="/faq.html">FAQ</a><a href="/resources.html">Resources</a><a href="/about.html">About</a>
 </div></div></nav>
 <div class="container">
-<h1>Frequently Asked Questions</h1>
-<p class="tagline">Free guide to debt relief, bankruptcy, and when each applies.</p>
-<div class="faq"><h3>How do I know if I should file bankruptcy?</h3><p>Three tests: (1) is your unsecured debt more than 40% of annual income? (2) would it take more than 5 years to pay off at your current rate? (3) are creditors suing or garnishing? If any two are yes, bankruptcy deserves a serious look.</p></div>
-<div class="faq"><h3>Will bankruptcy ruin my credit forever?</h3><p>No. Chapter 7 stays on credit reports 10 years, Chapter 13 stays 7 years. But most filers see credit scores recover to 650+ within 2-3 years because the underlying debt is gone. Your current situation - late payments, collections, judgments - may already be doing more damage.</p></div>
-<div class="faq"><h3>Can I keep my house and car?</h3><p>In most cases yes. Exemptions protect home equity (varies by state, $25,000 to unlimited), vehicles up to $3,500-$15,000 in equity, and retirement accounts entirely. Secured debts continue if you keep paying. We have state-specific exemption guides linked below.</p></div>
-<div class="faq"><h3>Is bankruptcy public record?</h3><p>Yes, filings are public via PACER. But employers generally do not check, and credit reporting rules limit how long it shows. The practical privacy impact is small compared to the relief.</p></div>
-<h2>Have a different question?</h2>
-<p>Email info@openbankruptcyproject.org or visit our <a href="https://openbankruptcyproject.org">main site</a> for the full library.</p>
-<p><a href="https://1328f.com/" class="cta">Free screener: can you re-file bankruptcy (1328(f) check) &rarr;</a></p>
+<h1>About Drowning in Debt</h1>
+<p class="tagline">Part of the Open Bankruptcy Project network.</p>
+<p>Drowning in Debt is a free educational resource operated by the <strong>Open Bankruptcy Project (OBP)</strong>, a 501(c)(3) nonprofit. OBP publishes free, source-cited guides on bankruptcy, debt relief, and consumer-financial law.</p>
+<h2>Who We Are</h2>
+<p>OBP is an independent publisher - we do not refer cases, take referral fees, or sell leads to bankruptcy attorneys. Every guide on our network is written for consumers, cites primary sources (United States Code, Federal Rules of Bankruptcy Procedure, CFPB guidance, FJC data), and is free to use.</p>
+<h2>Why This Site Exists</h2>
+<p>Each site in our network addresses a specific consumer-financial crisis. Drowning in Debt focuses on the issues described above. Our goal is to make the legal framework understandable without requiring an attorney retainer - because most people in financial distress cannot afford one.</p>
+<h2>Funding</h2>
+<p>Reader-supported. We accept donations via <a href="https://github.com/sponsors/openbankruptcyproject">GitHub Sponsors</a> and direct contributions. We do not accept advertising, sponsored content, or any form of payment from bankruptcy attorneys, lead-generation companies, or debt-relief firms.</p>
+<h2>Contact</h2>
+<p>info@openbankruptcyproject.org</p>
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>

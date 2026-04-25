@@ -59,27 +59,6 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 {"@type":"Question","name":"What happens to the family member if the trustee sues them?",""+"acceptedAnswer":{"@type":"Answer","text":"The trustee files an adversary proceeding seeking return of the funds. Most cases settle - family members agree to pay back a portion rather than litigate. If they cannot pay, the trustee may settle for less. The family member does not go to jail or get a bankruptcy on their credit, but the experience is stressful and typically requires retaining counsel."}}
 ]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container">
@@ -253,7 +232,7 @@ gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7
 </ul>
 
 <div class="footer">
-<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p>A project of the <strong>Open Bankruptcy Project</strong> - a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.5rem"><a href="https://1328f.com">National Screener</a> · <a href="https://1328f.org">Research</a> · <a href="https://openbankruptcyproject.org">About OBP</a></p>
 <div class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this website. Family-loan scenarios are fact-specific and interact with timing, state law, and the debtor's overall financial picture. For advice about your specific situation, consult a licensed attorney in your state.</div>
 </div>
